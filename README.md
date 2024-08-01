@@ -33,4 +33,4 @@ This Student Management System (SMS) application allows you to manage student re
 - **Manage Students:** Add, update, view, and delete student records.
 
 ## Contact
-For any questions or issues, please contact [your email address].
+For any questions or issues, please contact prasantha16122001@gmail@gmail.com.

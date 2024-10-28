@@ -1,4 +1,4 @@
-# Student Management System
+8# Student Management System
 
 ## Overview
 This Student Management System (SMS) application allows you to manage student records, including adding, updating, and deleting student information. It also supports authentication for admin users.
@@ -33,4 +33,4 @@ This Student Management System (SMS) application allows you to manage student re
 - **Manage Students:** Add, update, view, and delete student records.
 
 ## Contact
-For any questions or issues, please contact prasantha16122001@gmail@gmail.com.
+For any questions or issues, please contact prasantha16122001@gmail.com.
